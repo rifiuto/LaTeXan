@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.1)  8 NOV 2021 21:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.11.1)  8 NOV 2021 21:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -76,7 +76,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforetabskip=\skip77
 \cfttabindent=\skip78
 \cfttabnumwidth=\skip79
-) (./main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -93,30 +94,29 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-(./main.toc)
+No file main.toc.
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [1
+[1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main
-.aux) ) 
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 1089 strings out of 478579
- 21190 string characters out of 5853457
- 406818 words of memory out of 5000000
- 19048 multiletter control sequences out of 15000+600000
- 404343 words of font info for 30 fonts, out of 8000000 for 9000
+ 1083 strings out of 478579
+ 21133 string characters out of 5853457
+ 405818 words of memory out of 5000000
+ 19047 multiletter control sequences out of 15000+600000
+ 404035 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,5n,81p,236b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
-.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
-fb>
-Output written on main.pdf (1 page, 40201 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb>
+Output written on main.pdf (1 page, 30164 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 18 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
